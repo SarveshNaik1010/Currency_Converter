@@ -1,4 +1,6 @@
 This is the MAIN branch version of the file.
 Conflicts will happen when we merge.
 
-FINAL BRANCH
+We are testing merge conflicts.
+
+THIS IS FINAL
