@@ -1,0 +1,2 @@
+This is an api docs for the currency conversion api that will help you to write the code
+GET: https://api.frankfurter.app/latest?amount=${amount}&from=${from}&to=${to}
