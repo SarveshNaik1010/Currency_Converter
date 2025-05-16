@@ -1,0 +1,4 @@
+This is the MAIN branch version of the file.
+Conflicts will happen when we merge.
+
+FINAL BRANCH
