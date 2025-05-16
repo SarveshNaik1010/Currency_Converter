@@ -1,0 +1,2 @@
+This is branch HARDCORE version of the file.
+We are testing merge conflicts.
