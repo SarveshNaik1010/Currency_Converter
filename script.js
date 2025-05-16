@@ -7,8 +7,6 @@ async function convertCurrency(from, to, amount) {
     JPY: { USD: 0.0065, EUR: 0.0058, INR: 0.53 },
   };
 
-  console.log(convert(from, to, amount));
-
   if (from === to) return amount;
   const rate = rates[from]?.[to];
 
