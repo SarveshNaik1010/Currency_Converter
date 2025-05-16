@@ -1,4 +1,3 @@
-// Sample function to simulate conversion – replace with actual NPM package logic
 async function convertCurrency(from, to, amount) {
   // Dummy conversion rates
   const rates = {
@@ -7,6 +6,8 @@ async function convertCurrency(from, to, amount) {
     INR: { USD: 0.012, EUR: 0.011, JPY: 1.87 },
     JPY: { USD: 0.0065, EUR: 0.0058, INR: 0.53 },
   };
+
+  console.log(convert(from, to, amount));
 
   if (from === to) return amount;
   const rate = rates[from]?.[to];
