@@ -12,7 +12,7 @@ async function convertCurrency(from, to, amount) {
   const rate = rates[from]?.[to];
 
   if (!rate) {
-    throw new Error("Conversion rate not available");
+    throw new Error("Conversion rate is not available");
   }
 
   return (amount * rate).toFixed(2);
