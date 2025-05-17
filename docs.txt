@@ -7,3 +7,5 @@ new line
 new content
 
 new fix for green mode
+
+new fix for purple mode
