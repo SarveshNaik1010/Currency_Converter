@@ -5,3 +5,5 @@ THIS IS FINAL
 new line
 
 new content
+
+new fix for green mode
