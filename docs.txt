@@ -1,6 +1,5 @@
 This is the MAIN branch version of the file.
-Conflicts will happen when we merge.
-
-We are testing merge conflicts.
-
+We are testing content merge conflicts.
+some important from the developer.
 THIS IS FINAL
+new line
