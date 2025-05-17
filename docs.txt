@@ -3,3 +3,5 @@ We are testing content merge conflicts.
 some important from the developer.
 THIS IS FINAL
 new line
+
+new content
